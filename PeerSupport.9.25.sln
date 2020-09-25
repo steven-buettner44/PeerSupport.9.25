@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeerSupport.9.25", "PeerSupport.9.25.csproj", "{A13142AB-CEFD-4B3A-969F-F2D79D3CF2CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A13142AB-CEFD-4B3A-969F-F2D79D3CF2CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A13142AB-CEFD-4B3A-969F-F2D79D3CF2CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A13142AB-CEFD-4B3A-969F-F2D79D3CF2CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A13142AB-CEFD-4B3A-969F-F2D79D3CF2CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA784FB2-21A8-4B8E-9868-B16038366397}
+	EndGlobalSection
+EndGlobal
